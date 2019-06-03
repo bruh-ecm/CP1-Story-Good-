@@ -2,6 +2,14 @@ I woke up
 I ate breakfast
 I went to School
 I learned at School
+  - English
+  - World Studies
+  - Chemistry
+  - P.E.
+  - Lunch
+  - Geometry
+  - Programming
+  - Academy
 I went back home
 I ate dinner
 I did homework
