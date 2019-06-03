@@ -14,3 +14,9 @@ I went back home
 I ate dinner
 I did homework
 I went to sleep
+I had a dream:
+In this dream,
+  - I was in space
+  - I went to Mars
+  - I lived on Mars
+  - I had a job on Mars.
